@@ -5,7 +5,7 @@
 .box {
 		background-color: #FFED77;
 		height: 300px;
-		width: 250px;
+		width: 310px;
 		border-radius: 10px;
 		position: relative;
 		top: 80px;
@@ -16,7 +16,7 @@
 /* Display */
 .display {
 	background-color: #B68AE8;
-	width: 220px;
+	width: 275px;
 	position: relative;
 	left: 15px;
 	top: 20px;
@@ -27,7 +27,7 @@
 	left: 2px;
 	top: 2px;
 	height: 30px;
-	width: 210px;
+	width: 265px;
 	color: black;
 	background-color: #FFA4C4;
 	font-size: 21px;

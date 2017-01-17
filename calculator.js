@@ -1,5 +1,7 @@
 // JavaScript Document
 
+var decimal = false;
+
 // Change Display
 function d(val) {
 	document.getElementById("d").value = val;
