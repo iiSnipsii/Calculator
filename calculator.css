@@ -3,9 +3,9 @@
 
 /* Calculator Box */
 .box {
-		background-color: #e5e7ea;
-		height: 300px;
-		width: 250px;
+		background-color: #FFED77;
+		height: 350px;
+		width: 260px;
 		border-radius: 10px;
 		position: relative;
 		top: 80px;
@@ -15,7 +15,7 @@
 
 /* Display */
 .display {
-	background-color: #bfc4ce;
+	background-color: #B68AE8;
 	width: 220px;
 	position: relative;
 	left: 15px;
@@ -29,7 +29,7 @@
 	height: 30px;
 	width: 210px;
 	color: black;
-	background-color: #bccd95;
+	background-color: #FFA4C4;
 	font-size: 21px;
 	text-align: right;
 }
@@ -50,14 +50,20 @@
 }
 .button.function {
 		color: white;
-		background-color: #c64f81;
+		background-color: #257B99;
 		border-bottom: black 2px solid;
 		border-top: 2px #6f6f6f solid;
 }
 .button.operator {
 	color: white;
-	background-color: #4d5966;
+	background-color: #CC1700;
 	border-bottom: black2px solid;
+	border-top: 2px #6f6f6f solid;
+}
+.button.number {
+	color: white;
+	background-color: #639453;
+	border-bottom: black 2px solid;
 	border-top: 2px #6f6f6f solid;
 }
 
